@@ -26,7 +26,7 @@ To run the analysis, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-data-analysis.git
+   git clone https://github.com/MahmoudHassan/movie-data-analysis.git
    ```
 
 2. Install the required dependencies:
