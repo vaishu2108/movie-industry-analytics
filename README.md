@@ -1,4 +1,3 @@
-\`\`\`markdown
 # Movie Data Analysis
 
 This repository contains a data analysis project focused on exploring a dataset of movies. The analysis aims to gain insights into various aspects of the film industry, including revenue, popularity, genres, directors, and more. The project utilizes Python and popular data analysis libraries such as Pandas, Matplotlib, Seaborn, and WordCloud.
@@ -47,4 +46,3 @@ To run the analysis, follow these steps:
 The analysis provides valuable insights into various aspects of the film industry, including directors' impact on revenue, the correlation between actors and revenue, the influence of homepage presence, genre popularity, trends over time, and the impact of budget-revenue ratio and keywords on movie success. However, it's important to note that the analysis is based on the available dataset and has limitations. The conclusions should be interpreted in the context of the dataset and may not be universally applicable.
 
 Further analysis, considering additional factors and datasets, could provide deeper insights into the film industry and its dynamics.
-\`\`\`
