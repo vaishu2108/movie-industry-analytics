@@ -25,21 +25,21 @@ To run the analysis, follow these steps:
 
 1. Clone the repository:
 
-   \```bash
+   ```bash
    git clone https://github.com/your-username/movie-data-analysis.git
-   \```
+   ```
 
 2. Install the required dependencies:
 
-   \```bash
+   ```bash
    pip install pandas matplotlib seaborn wordcloud plotly
-   \```
+   ```
 
 3. Run the Jupyter Notebook or Python script to execute the analysis:
 
-   \```bash
+   ```bash
    jupyter notebook movie_data_analysis.ipynb
-   \```
+   ```
 
 ## Conclusion
 
